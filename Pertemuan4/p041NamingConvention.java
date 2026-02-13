@@ -11,3 +11,4 @@ public class p041NamingConvention {
         System.out.println("Konstanta PI: " + PI);
     }
 }
+
