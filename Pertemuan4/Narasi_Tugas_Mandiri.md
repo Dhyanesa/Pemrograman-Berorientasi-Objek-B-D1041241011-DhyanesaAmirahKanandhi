@@ -40,14 +40,18 @@ NIM : D1041241011
 
 KELAS : Pemrograman Berorientasi Objek (B)
 
+-Apa yang anda pahami tentang Naming Convention
 Menurut saya Naming Convention itu seperti peraturan saat menulis kode supaya rapi dan sesuai standar. Tujuannya supaya kita langsung bisa membedakan jenis datanya dengan hanya melihat tulisannya.
 
+-Mengapa penamaan variabel dan class penting dalam pemrograman
 Alasannya agar tidak bingung sendiri nantinya, karena kalau kita menamainya dengan a atau b saja dan saat programnya error kita tidak tahu itu variabel untuk apa.
 
+-Bagaimana operator aritmatika bekerja dalam Java
 Secara umum mirip matematika biasanya dan menggunakan simbol seperti :
-
 (+) untuk penjumlahan, (-) untuk pengurangan, (\*) untuk perkalian, (/) untuk pembagian, (%) untuk sisa pembagian (modulus).
 
+-Contoh penerapan yang anda pahami dari latihan yang dikerjakan
 Dari latihan 2 yaitu LatihanKalkulator contoh penerapannya yaitu Menghitung nilai Rapor/IPK dan Aplikasi Keuangan.
 
+-Kesulitan yang dialami
 Pada LatihanKalkulator di bagian pembagian desimal, awalnya saya menggunakan tipe data int tetapi hasilnya bulat dan ternyata saya salah yang seharusnya menggunakan tipe data double untuk desimal.
