@@ -27,4 +27,5 @@ public class ObjectAndClass {
         System.out.println("Informasi Mobil:");
         mobil1.tampilkanInfo();
     }
+
 }
